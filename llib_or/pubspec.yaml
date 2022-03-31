@@ -29,28 +29,6 @@ dependencies:
   babstrap_settings_screen: ^0.1.1
   charts_flutter: ^0.12.0
   http: ^0.13.4
-  flutter_spinkit: ^5.1.0
-  location: ^4.3.0
-  art_sweetalert: ^0.0.5
-  shared_preferences: ^2.0.6
-  syncfusion_flutter_charts: ^19.4.53
-  date_range_form_field: ^1.0.2
-  circle_chart: ^0.0.3
-  sweetalert: ^0.0.1
-  firebase_messaging: ^11.2.11
-  firebase_core: ^1.13.1
-  giffy_dialog: ^1.8.0
-  rich_alert: ^0.1.32
-  flutter_dialogs: ^2.1.1
-  flutter_local_notifications: ^9.4.0
-  device_info_plus: ^3.2.2
-  device_info_plus_web: ^2.1.0
-  flutter_background_service: ^1.0.4
-
-  
-  # firebase_core: ^1.12.0
-  # firebase_messaging: ^11.2.7
-
 
 dev_dependencies:
   flutter_test:
@@ -67,11 +45,6 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
-
-  
-  assets:
-    - assets/
-
 
   # To add assets to your application, add an assets section, like this:
   # assets:

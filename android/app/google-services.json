@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "793307909953",
+    "project_id": "appproject-7b9cd",
+    "storage_bucket": "appproject-7b9cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793307909953:android:bbbde971f3dbd2aa065bc0",
+        "android_client_info": {
+          "package_name": "com.example.aris_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793307909953-75hqdu4vtvq1o9tgearaeom8qm2apg2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnzxOZBYLpTo59Jfr46L4N3K3y0PL-Ds8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793307909953-75hqdu4vtvq1o9tgearaeom8qm2apg2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793307909953:android:c86dec53aa1fdc5c065bc0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_khiw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793307909953-75hqdu4vtvq1o9tgearaeom8qm2apg2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnzxOZBYLpTo59Jfr46L4N3K3y0PL-Ds8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793307909953-75hqdu4vtvq1o9tgearaeom8qm2apg2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793307909953:android:8813d1c1c717b1ae065bc0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_room_thermometer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793307909953-75hqdu4vtvq1o9tgearaeom8qm2apg2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnzxOZBYLpTo59Jfr46L4N3K3y0PL-Ds8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793307909953-75hqdu4vtvq1o9tgearaeom8qm2apg2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793307909953:android:20d6c117c7901a34065bc0",
+        "android_client_info": {
+          "package_name": "com.example.khiw2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793307909953-75hqdu4vtvq1o9tgearaeom8qm2apg2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnzxOZBYLpTo59Jfr46L4N3K3y0PL-Ds8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793307909953-75hqdu4vtvq1o9tgearaeom8qm2apg2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
